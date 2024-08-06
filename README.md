@@ -1,9 +1,38 @@
-# Khalid-Lab.github.io
-Laboratory for Molecular Modeling &amp; Drug Discovery 
+# [Khalid-Lab.github.io](https://ncb.qau.edu.pk/index.php/people/faculty/175-dr-rehan.html) Laboratory for Molecular Modeling &amp; Drug Discovery
+
+### Introduction 
 
 Khalid Lab at National Centre for Bioinformatics https://ncb.qau.edu.pk/ Quaid-i-Azam University Islamabad Pakistan focuses on integrating structural and computational biology, with a primary focus on advancing therapeutics development. We are driven to unravel the intricacies of interdomain cross-talk within extracellular Immunoglobulin superfamily (IgSF) proteins, recognized targets for autoimmune diseases and cancer therapy. Leveraging our expertise in protein-protein interactions, we aim to engineer mutant molecules with tailored affinities and selectivities, paving the way for therapeutic applications, particularly in the realm of biologics. Additionally, we are committed to addressing food security challenges through innovative pesticide and insecticide design, especially crucial in agrarian economies like Pakistan.
 
+### Ongoing Projects
+
 We specialize in deciphering the structure and dynamics of biomolecular systems to elucidate their functional mechanisms. Employing advanced computational methodologies such as Molecular Dynamics, enhanced sampling techniques, and free energy calculations, we strive to decode the biophysical properties of biomolecules. Our research spans diverse areas including protein-ligand interactions, structure-based drug design, and the application of quantitative structure-activity relationship (QSAR) and bioinformatics techniques.
 
+### Current Lab Members
+<img align="left" src="assets/page1.png" width="300" title="Dr.Rana Rehan" /> 
+
+**Dr. Rana Rehan**
+
+_Assistant Professor,
+National Center for Bioinformatics,
+Quaid-i-Azam University Islamabad, Pakistan._
+
+
+* Strong publication record in reputed journals.
+* Productive independent researcher with excellent communication & team skills.
+* Structural Analysis: Molecular Modeling and Multidomain Protein Assembly (Prime, Alpha
+Fold and Modeller), Molecular Dynamics Simulations (AMBER and Desmond), Docking
+(PLANTS, LeDock, QVina, MOE and Glide etc.), Trajectory Analysis (Schrodinger and
+VMD), Structure Visualization and Analysis (PyMol, VMD, Maestro, Chimera).
+* Computational Skills: Bash Scripting, R, Python, HPC
+* Structure-based/Ligand-base Drug Design: Structure based Pharmacophore based Virtual
+Screening, Protein-Inhibitor Modeling, Protein-Protein Docking, and Interaction Analysis,
+QSAR Analysis, Shape Screening.
+
+
+-------
+### Previous Lab Members
+
+--------
 Our collaborative efforts integrate state-of-the-art computational technologies to model and predict molecular interactions within biological systems. By harnessing molecular modelling, medicinal chemistry, and structural biology, we aim to develop novel small molecules that target specific molecular functions. Through our integrated approach, we seek to advance drug discovery efforts, with a particular emphasis on developing therapeutic agents for cancer and neurological disorders.
 
